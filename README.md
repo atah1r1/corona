@@ -1,11 +1,14 @@
-# Introduction
-This is a code repository for the corresponding video tutorial. 
+# Corona Virus App with React Js & Axios
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+Track the spread of the Coronavirus COVID-19 epidemic in Morocco, browse an interactive map, 
+view fatality rate and recoveries, check affected regions in real-time.
+If you want to keep track of where the coronavirus cases are and how they're spreading .
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+- I developed this web application to do that on the quarantine time .
+- I used an API to get statistics of the pandemic .
+- It's my first app after a little bit of learning about react js .
 
-API used: https://covid19.mathdro.id/api
 
-Setup:
-- run ```npm i && npm start```
+# Update 
+
+- May some functionnalities Now doesn't work because of the API changes . I will fix that ASAP .
